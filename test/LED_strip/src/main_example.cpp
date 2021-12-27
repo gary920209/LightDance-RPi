@@ -3,6 +3,8 @@
 #include "LED_strip.h"
 using namespace std;
 
+// Hello
+
 double wait = 0.005;
 const uint8_t nStrips = 1;
 const uint16_t nLeds[1] = {5};
